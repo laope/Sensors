@@ -2,7 +2,7 @@
 
 ESP8266
 
-HT11
+- HT11
 
 Raspberry Pi 3
 
