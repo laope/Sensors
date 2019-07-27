@@ -9,7 +9,6 @@
 #define DHTTYPE DHT11
 #define DHTPIN 2
 
-//const char* ssid = "Hjemmenet_ap";
 const char* ssid = "***";
 const char* password = "***";
 ESP8266WebServer server(80);

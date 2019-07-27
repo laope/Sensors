@@ -3,7 +3,7 @@
 ESP8266
 
 
-
+- ESP8266 (ESP01)
 - HT11
 
 
@@ -11,5 +11,7 @@ ESP8266
 Raspberry Pi 3
 
 
-
-- MariaDB
+ - Node-Red
+ - MQTT - Mosquitto
+ 
+  - (MariaDB)
